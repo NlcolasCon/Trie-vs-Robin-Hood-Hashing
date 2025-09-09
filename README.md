@@ -30,6 +30,7 @@ Experiments were conducted with generated dictionaries of up to 500k words, meas
 ## Repository Structure
 Trie-Hashing-Comparison/
 ┣ src/
+┃ ┣ Element.java
 ┃ ┣ HashingMain.java
 ┃ ┣ Heap.java
 ┃ ┣ RobinHoodHashing.java
@@ -37,7 +38,7 @@ Trie-Hashing-Comparison/
 ┃ ┣ Trie.java
 ┃ ┗ TrieNode.java
 ┣ docs/
-┃ ┗ report.pdf (optional, cleaned summary)
+┃ ┗ report.pdf
 ┣ LICENSE
 ┣ README.md
 
